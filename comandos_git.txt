@@ -1,0 +1,5 @@
+git add nome-do-arquivo+extensao
+
+git commit -m "Primeiro teste html css"
+
+git push origin master
