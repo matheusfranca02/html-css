@@ -1,0 +1,70 @@
+body {
+    
+    margin: 0;
+    font-weight: 300;
+    font-family: Ubuntu, sans-serif;
+}
+
+
+
+header {
+
+    background-color: bisque;
+    padding: 1%;
+    
+    
+}
+
+
+nav {
+
+    float: left;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    
+
+}
+
+nav li {
+    display: -moz-inline-stack p;
+    padding: 20%  0%;
+    
+
+}
+
+nav a {
+    align-items: left;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+
+nav a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    color: rgb(74, 218, 105);
+   
+  
+   
+
+}
+
+.footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color:#504B43 ;
+    color: white;
+    text-align:center;
+
+
+
+}
+
+
+
